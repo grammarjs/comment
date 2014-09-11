@@ -1,0 +1,11 @@
+{
+  "name": "grammarjs-comment",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "dependencies": {
+    "grammarjs-grammar": "*"
+  },
+  "devDependencies": {
+    "grammarjs-recursive-parser": "*"
+  }
+}
